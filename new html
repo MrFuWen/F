@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<h1>第一次网站的尝试</h1>
+<p>试试生成一个简单的目录吧</p>
+<hr>
+<ol>
+	<li>一段文字</li>
+	<li>一个表格</li>
+	<li>一个复选框</li>
+	<li>放链接</li>
+	<li>一只猫的图片</li>
+</ol>
+<hr>
+<h2>HTML中的文本</h2>
+<p>p是一个段落标签，不同的p还有P和其他元素标签之间会用换行隔开，
+在其中我输入的回车会被当做一个空格处理
+
+日照香炉生紫烟，遥看瀑布挂前川。
+飞流直下三千尺，疑似银河落九天</p>
+<h2>一个简单的身份信息表</h2>
+<table border="3">
+	<tr>
+		<th>姓名</th>
+		<th>年龄</th>
+		<th>性别</th>
+	</tr>
+	<tr>
+		<td>符家榕</td>
+		<td>十八</td>
+		<td>男性</td>
+	</tr>
+	<tr>
+		<td>陈磊</td>
+		<td>三十八</td>
+		<td>男性</td>
+	</tr>
+	<tr>
+		<td>木金阳</td>
+		<td>十八</td>
+		<td>男性</td>
+	</tr>
+</table>
+
+<h2>选项框</h2>
+<form>
+	<label><input type="radio" name="anmial">小猫</label>
+	<label><input type="radio" name="anmial">小狗</label>
+</form>
+<form>
+	<label><input type="checkbox" name="food">苹果</label>
+	<label><input type="checkbox" name="food">香蕉</label>
+	<label><input type="checkbox" name="food">橘子</label>
+	<label><input type="checkbox" name="food" checked>庐阳</label>
+</form>
+<form>输入框
+<label><input type="text" placeholder="你想去的网址"></label>
+<button type="sumnit">提交</button>
+</form>
+<h2>链接区域</h2>
+<hr>
+<p><a href="http://www.baidu.com">百度一下</a> <a href="http://www.4399.com">4399小游戏</a> <a href="http://wwww.taoboa.com">淘宝网</a></p>
+<p><a href="http://www.zzu.edu.cn">郑州大学</a></p>
+<hr>
+
+<h2>一只可爱的猫咪</h2>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488082749949&di=9778fc92d1e22c1b1faef99e7ad248bc&imgtype=0&src=http%3A%2F%2Fpic36.photophoto.cn%2F20150826%2F0035036089368398_b.jpg">
+</html>
