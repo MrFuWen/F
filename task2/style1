@@ -1,0 +1,88 @@
+
+h1
+{
+	color: #00FF50;
+	font-size: 70px;
+	font-family: "Comic Sans MS";
+	font-style: italic;
+	text-align: center;
+}
+
+hr.aa
+{
+	border-style: dotted;
+}
+.top
+{
+	width: 1499px;
+	height: 150px;
+	padding-top: 7px;
+	padding-bottom: 50px;
+	background-color: #353535;
+	border: 3px solid gray;
+	margin: 0px  ;
+}
+
+.MAIN{width: 1500px;height: 680px;}
+
+.main
+{
+	
+	height: 681px;
+	width: 400px;
+
+	background-color: gray;
+	position:absolute;
+	left:300px;
+	top: 220px;
+    padding-top: 50px;
+    /*padding-bottom: 15px;*/
+    padding-left: 100px;
+    padding-right: 300px;
+
+}
+
+.right
+{
+	width: 409px;
+    height: 681px;
+    background-color: blue;
+	position:absolute;
+	top: 220px;
+	left:1100px;
+	border-right: 3px solid gray;
+	padding-top: 50px;
+	margin-bottom: 0px  ;
+
+}
+.sidbar
+{
+    float:left;
+    width: 290px;
+    height: 680px;
+
+	border-left-color: gray;
+	border-left: 3px solid gray;
+	/*border-bottom-color: gray;
+	border-bottom: 3px solid gray;*/
+	
+	padding-top: 50px;
+	/*padding-bottom: 150px;*/
+	background-color: yellow;
+	margin-bottom: 0px  ;
+}
+
+.bottom
+{
+	width: 1499px;
+	margin-top: 50px  ;
+	border-left-color: gray;
+	border-left: 3px solid gray;
+	border-bottom-color: gray;
+	border-bottom: 3px solid gray;
+	border-right-color: gray;
+	border-right: 3px solid gray;
+}
+
+
+
