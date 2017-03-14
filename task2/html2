@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+
+<head>
+<title>猫咪</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+<body>
+	<div class="top">
+		 <h1 border="1"> Web about cat </h1>
+	</div>
+    
+	<div class="MAIN">
+        <div class="main" >
+                <h2>请配合我们做一个调查</h2>        
+                <form style="display:inline;">
+                       <h3> 你的性别：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你的年龄：</h3>
+                       <label><input type="radio" name="boy">男</label> 
+                       <label><input type="radio" name="girl">女</label>
+                </form>
+                <form style="display:inline;">
+                       &nbsp;&nbsp;&nbsp;&nbsp;
+                       &nbsp;&nbsp;&nbsp;&nbsp;
+                       <select name="age">
+                               <option value="0+">0-10周岁</option>
+                                <option value="10+">10-20周岁</option>
+                                 <option value="20+">20-30周岁</option>
+                                  <option value="30+">30-40周岁</option>
+                                   <option value="40+">40-50周岁</option>
+                                    <option value="50+">50-60周岁</option>
+                                    <option value="60+">超过60周岁</option>
+                       </select>
+                       <p></p>
+                </form>
+                <form>
+                        <h3>关于你</h3>
+                        <label><input type="checkbox" name="1">现在养有猫</label>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <label><input type="checkbox" name="2">很在意猫的品种</label>
+                        <br>
+                        <br>
+                        <label><input type="checkbox" name="3">未养过猫</label>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <label><input type="checkbox" name="4">养过超过一只猫</label>
+                        <br>
+                        <br>
+                        <label><input type="checkbox" name="5">常购买专用猫咪产品</label>
+                        <label><input type="checkbox" name="6">收养过流浪猫</label>
+                </form>
+                <form>
+                        <h4>你曾经将猫咪和这些宠物一起饲养<small>(可接触同一空间)</small></h4>
+                        
+                        <label><input type="checkbox" name="a">狗</label>&nbsp;&nbsp;
+                        <label><input type="checkbox" name="b">仓鼠</label>
+                        <label><input type="checkbox" name="c">兔子</label>
+                        <br><br>
+                        <label><input type="checkbox" name="d">鸟类</label>
+                        <label><input type="checkbox" name="e">狐狸</label>
+                        <label><input type="checkbox" name="f">龙猫</label>
+                        <br><br>
+                        <label>其它：<input type="text" placeholder="请输入宠物名"></label>
+                        <br>
+                        <p>你还希望得到的宠物服务有</p>
+                        <textarea rows="3"cols="30"> 我希望</textarea>
+                        <button type="submit">完成</button>
+                </form>
+        </div>
+
+        <div class="right">
+           &nbsp;&nbsp;&nbsp;&nbsp;<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电影推荐</h2>
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a href="http://gaoqing.la/nine-lives.html"><img src="https://p.ssl.qhimg.com/d/dy_bf53994dbc4cae648fc3cfddc35ce875.jpg"alt="中国高清网"></a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://gaoqing.la/nine-lives.html"><h3 style="text-align:center">九条命</h3></a>
+            <br>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毛毛裤先生</p>
+      
+            
+        </div>
+
+   
+
+   <div class="sidbar" >
+		<h2>导航栏</h2>
+		<hr class="aa">
+		<br>
+		<h3>爱猫人的网站</h3>
+		<ul>
+			<li><a href="http://www.luckycats.org.cn/">幸运土猫网</a></li>
+			<li><a href="http://www.92kucat.com/index.html">就爱酷猫网</a></li>
+			<li><a href="http://www.maomijiaoyi.com/">喵咪交易网</a></li>
+			<li><a href="http://www.boqii.com/">波奇宠物网</a></li>
+			<li><a href="http://www.aimaomao.wang/">爱 猫 猫</a></li>
+		</ul>
+		<hr  class="aa">
+		<h3>购买链接</h3>
+        <table width="290px" height="220px"  >
+        	<tr>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-503-ts-1.html">埃及猫</a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-515-ts-1.html"> 雪鞋猫 </a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-501-ts-1.html">爪哇猫</a></td>
+        	</tr>
+        	<tr>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-504-ts-1.html">孟买猫</a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-516-ts-1.html"> 奥西猫 </a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-502-ts-1.html">伯曼猫</a></td>
+        	</tr>
+        	<tr>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-505-ts-1.html">加菲猫</a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-505-ts-1.html"> 巴厘猫 </a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-527-ts-1.html">俄蓝猫</a></td>
+        	</tr>
+        	<tr>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-506-ts-1.html">缅甸猫</a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-518-ts-1.html"> 布偶猫 </a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-528-ts-1.html">俄短猫</a></td>
+        	</tr>
+        	<tr>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-507-ts-1.html">暹罗猫</a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-519-ts-1.html"> 缅因猫 </a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-529-ts-1.html">土耳其</a></td>
+        	</tr>
+        	<tr>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-508-ts-1.html">呵叻猫</a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-520-ts-1.html"> 沙特尔 </a></td>
+        		<td><a href="http://www.maomijiaoyi.com/thread-htm-fid-2-modelid-9-dk-530-ts-1.html">美短毛</a></td>
+        	</tr>
+        </table>
+		<hr  class="aa">
+	</div>
+    </div>
+
+	<div class="bottom">
+                <hr id="a">
+                <center>本页作者：Mr.F <a href=mailto:"820773844@qq.com">联系我</a><br><small>本站仅做练习使用，谢绝广告，请勿用作商业用途<br><a href="#">CSS代码</a><br>2017-3-1</small>
+        </center>
+        </div>
+
+	
+</body>
+</html>
