@@ -4,7 +4,7 @@
 <head>
 <title>猫咪</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="style1.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/MrFuWen/F/blob/master/task2/style1">
 </head>
 <body>
 	<div class="top">
@@ -132,7 +132,7 @@
 
 	<div class="bottom">
                 <hr id="a">
-                <center>本页作者：Mr.F <a href=mailto:"820773844@qq.com">联系我</a><br><small>本站仅做练习使用，谢绝广告，请勿用作商业用途<br><a href="#">CSS代码</a><br>2017-3-1</small>
+                <center>本页作者：Mr.F <a href=mailto:"820773844@qq.com">联系我</a><br><small>本站仅做练习使用，谢绝广告，请勿用作商业用途<br><a href="https://github.com/MrFuWen/F/blob/master/task2/style1">CSS代码</a><br>2017-3-1</small>
         </center>
         </div>
 
