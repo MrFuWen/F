@@ -4,8 +4,7 @@
 <head>
 <title>猫咪</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<--<link rel="stylesheet" type="text/css" href="https://github.com/MrFuWen/F/blob/master/task2/style1">-->
-<style>
+<style type="text/css">
 h1
 {
 	color: #00FF50;
